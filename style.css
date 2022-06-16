@@ -23,7 +23,7 @@
   font-size: 9px;
 }
 .error{
-  background: url('src/icon-error.svg') no-repeat 94%;
+  background: url('icon-error.svg') no-repeat 94%;
   border: 2px solid var(--red);
   transition: all .35s;
   position: relative;
