@@ -1,5 +1,5 @@
 .container{
- background-image: url('src/bg-intro-desktop.png');
+ background-image: url('bg-intro-desktop.png');
  background-color: hsl(0, 100%, 74%);
  background-repeat:repeat;
  background-size:cover;
@@ -120,7 +120,7 @@ p{
 @media all and (max-width: 500px){
   .container{
 background-color: hsl(0, 100%, 74%);
-background-image: url('src/bg-intro-mobile.png');
+background-image: url('bg-intro-mobile.png');
 display: grid;
 width: auto;
 height: 150vh;
