@@ -117,7 +117,7 @@ p{
 
 
 
-@media all and (max-width: 500px){
+@media all and (max-width: 375px){
   .container{
 background-color: hsl(0, 100%, 74%);
 background-image: url('bg-intro-mobile.png');
@@ -131,7 +131,7 @@ height: 150vh;
       height: 60px;
       width: 270px;
       border-radius: 6px;
-      margin-left: 80px;
+      margin-left: 40px;
       width: 300px;
       margin-bottom: 1rem;
       text-align: center;
@@ -151,7 +151,7 @@ h1{
   background-color: #fff;
   width: 300px;
   height: auto;
-  margin-left: 80px;
+  margin-left: 40px;
   border-radius: 7px;
   margin-bottom: 20px;
 }
